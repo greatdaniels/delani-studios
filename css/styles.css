@@ -1,0 +1,46 @@
+body{
+    background-attachment: fixed;
+    background-position-x: center;
+    overflow-x: hidden;
+}
+
+.text1{
+    background: transparent;
+    text-align: center;
+    font-size-adjust: auto;
+    color: white;
+    width: 100%;
+    text-align: center;
+        
+}
+.section1{
+    background: url(../assets/backgrounds/h_img.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center center;
+    color: white;
+    text-align: center;
+    padding-top: 300px;
+    
+    
+}
+#welcome{
+    font-size: 40px;
+    text-emphasis: bold;
+    padding: 0px;
+    margin: 5px;
+}
+#amazing{
+    padding: 2px;
+}
+#logo{
+    margin-top: 15px;
+    margin-bottom: 25px;
+    width: 80px;
+    height: 80px;
+}
+.mouse-click{
+    padding-top: 10%;
+
+}
