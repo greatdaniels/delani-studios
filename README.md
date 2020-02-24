@@ -3,6 +3,7 @@
 #### By **Dan Njoroge**
 ## Description
 This is a portfolio webpage for Delani Studios containing the About us, Services, Portfolio, and Contact us sections.
+Link: https://greatdaniels.github.io/delani-studios/
 ## Technologies Used
 This project uses HTML and CSS to collect user information by the use of a form. It employs jQuery to add the toggle effect and the hover effect to specific elements. It also uses Bootstrap to style the content.
 ### MIT License
