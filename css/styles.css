@@ -68,6 +68,21 @@ body{
     font-size-adjust: auto;
     
     color: white;
-    width: 100%;
+    width: 100%;    
+}
+#design, #dev, #product{
+    display: none;
+}
+
+.section4{
+    background: transparent;
+    text-align: center;
     
+}
+
+#work{
+    text-emphasis: bold;
+    font-size: 30px;
+    padding-top: 35px;
+    padding-bottom: 20px;
 }
