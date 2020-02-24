@@ -54,3 +54,20 @@ body{
     text-emphasis: bold;
     font-size: 30px;
 }
+.section3{
+    background: url(../assets/backgrounds/s_image.jpg);
+    padding-bottom: 150px;
+    padding-top: 150px;
+    background-repeat: no-repeat;
+}
+
+.text3{
+    background: transparent;
+    
+    text-align: center;
+    font-size-adjust: auto;
+    
+    color: white;
+    width: 100%;
+    
+}
