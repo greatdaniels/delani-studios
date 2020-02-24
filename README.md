@@ -1,5 +1,5 @@
 # Delani Studios.
-#### This project gives the user their Ghanaian Akan name based on their birth date, 24/02/2020
+#### This project is a portfolio webpage for Delani Studios, 24/02/2020
 #### By **Dan Njoroge**
 ## Description
 This is a portfolio webpage for Delani Studios containing the About us, Services, Portfolio, and Contact us sections.
