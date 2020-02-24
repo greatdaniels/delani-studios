@@ -86,3 +86,19 @@ body{
     padding-top: 35px;
     padding-bottom: 20px;
 }
+
+.section5{
+    text-align: center;
+    align-items: center;
+    text-emphasis: bold;
+    align-self: center;
+    align-content: center;
+
+    margin-right: 16%;
+    margin-left: 18%;
+    padding: 0;
+}
+.overlay1{
+    padding: 30%;
+    display: none;
+}
