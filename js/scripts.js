@@ -16,4 +16,12 @@ $(document).ready(function(){
     $(".image-frame").hover(function () {
         $(".overlay1").show().addClass("mask flex-center rgba-grey-strong");
     });
-})
+
+    $("#btn").click(function(){
+        var email = $("#email").value;
+        var name = $("#name").value;
+        var message = $("#comment").value;
+
+        alert("Thank you " + name + " for reaching out to us. We value your feedback. You will receive a message through your email at " + email);
+    });
+});

@@ -42,6 +42,7 @@ body{
 }
 .mouse-click{
     padding-top: 10%;
+    animation: bounce 2s infinite;
 
 }
 .section2{
