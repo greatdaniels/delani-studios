@@ -13,4 +13,7 @@ $(document).ready(function(){
         $("#product-image").toggle();
         $("#product").toggle();
     }); 
+    $(".image-frame").hover(function () {
+        $(".overlay1").show().addClass("mask flex-center rgba-grey-strong");
+    });
 })
